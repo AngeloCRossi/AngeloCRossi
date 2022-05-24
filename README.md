@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngeloCRossi!!!
 - 👀 I’m interested in learn a lot
 - 🌱 I’m currently learning and working: SQL Server, VBA, C/C++
-- 💞️ I’m looking to collaborate on everything i can
+- I’m looking to collaborate on everything I can
 
 <div align="center">
   <a href="https://github.com/AngeloCRossi">
