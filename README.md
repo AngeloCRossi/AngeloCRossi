@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AngeloCRossi!!!
-- 👀 I’m interested in learn a lot
+- 👀 I’m interested to learn a lot
 - 🌱 I’m currently learning and working: SQL Server, VBA, C/C++
 
 <div align="center">
