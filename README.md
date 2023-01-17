@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngeloCRossi!!!
 - 👀 I’m interested to learn a lot
-- 🌱 I’m currently learning and working: SQL Server, VBA, C/C++
+- 🌱 I’m currently learning and working: SQL Server, VBA, HTML, CSS, PHP
 
 <div align="center">
   <a href="https://github.com/AngeloCRossi">
