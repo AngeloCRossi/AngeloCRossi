@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AngeloCRossi!!!
+
+# 👋 Hi, I’m Angelo Rossi!!!
 - 👀 I’m interested to learn a lot.
 - 🌱 I’m currently learning and working (since March, 2022): SQL Server, VBA, HTML, CSS, JavaScript and PHP.
 
