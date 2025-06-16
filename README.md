@@ -1,7 +1,8 @@
 
 # 👋 Hi, I’m Angelo Rossi!!!
 - 👀 I’m interested to learn a lot.
-- 🌱 I’m currently learning and working (since March, 2022): SQL Server, VBA, HTML, CSS, JavaScript and PHP.
+- 🌱 I’m currentlyworking (since March, 2022): SQL Server, VBA, Power Platform.
+- 🌱 I’m currently learning Python, Java, IA, ML.
 
 <div align="center">
   <a href="https://github.com/AngeloCRossi">
